@@ -70,7 +70,7 @@ class KeyboardViewController: UIInputViewController {
         }
         
         for i in 0..<count  {
-            let button = buildButton(letters[i], action: "didTapDot")
+            let button = buildButton(letters[i], action: "didTapLetter:")
             view.addSubview(button)
             var offset = i * 32 - leftButtonOffsetFromCenter
             centerXConstraint = NSLayoutConstraint(item: button,
@@ -112,6 +112,16 @@ class KeyboardViewController: UIInputViewController {
         
         proxy.insertText(".")
     }
+    
+    func didTapLetter(sender: AnyObject) {
+        var letter: String
+        let button_ = sender as? UIButton
+        if let button = button_ {
+            letter = button.titleLabel.text
+            var proxy = textDocumentProxy as UITextDocumentProxy
+            proxy.insertText(letter)
+        }
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -123,8 +133,6 @@ class KeyboardViewController: UIInputViewController {
     }
 
     override func textDidChange(textInput: UITextInput) {
-        // The app has just changed the document's contents, the document context has been updated.
-    
         var textColor: UIColor
         var proxy = self.textDocumentProxy as UITextDocumentProxy
         if proxy.keyboardAppearance == UIKeyboardAppearance.Dark {
