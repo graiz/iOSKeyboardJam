@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		3859970F19AD8EED005DDA1E /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3859970E19AD8EED005DDA1E /* KeyboardViewController.swift */; };
 		3859971219AD8EED005DDA1E /* EmojiKeyBoard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3859970A19AD8EED005DDA1E /* EmojiKeyBoard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		3859971C19AD94C6005DDA1E /* CustomKeyboardInterface.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3859971B19AD94C6005DDA1E /* CustomKeyboardInterface.xib */; };
 		38BCE63D19AD87CC00FAFB7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BCE63C19AD87CC00FAFB7E /* AppDelegate.swift */; };
 		38BCE63F19AD87CC00FAFB7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BCE63E19AD87CC00FAFB7E /* ViewController.swift */; };
 		38BCE64219AD87CD00FAFB7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38BCE64019AD87CD00FAFB7E /* Main.storyboard */; };
@@ -59,7 +58,6 @@
 		3859970A19AD8EED005DDA1E /* EmojiKeyBoard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = EmojiKeyBoard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		3859970D19AD8EED005DDA1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3859970E19AD8EED005DDA1E /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
-		3859971B19AD94C6005DDA1E /* CustomKeyboardInterface.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomKeyboardInterface.xib; sourceTree = "<group>"; };
 		38BCE63719AD87CC00FAFB7E /* EmojiBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38BCE63B19AD87CC00FAFB7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38BCE63C19AD87CC00FAFB7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 			children = (
 				3859970E19AD8EED005DDA1E /* KeyboardViewController.swift */,
 				3859970C19AD8EED005DDA1E /* Supporting Files */,
-				3859971B19AD94C6005DDA1E /* CustomKeyboardInterface.xib */,
 			);
 			path = EmojiKeyBoard;
 			sourceTree = "<group>";
@@ -275,7 +272,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3859971C19AD94C6005DDA1E /* CustomKeyboardInterface.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
