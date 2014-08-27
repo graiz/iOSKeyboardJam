@@ -43,44 +43,65 @@ class KeyboardViewController: UIInputViewController {
         var nextKeyboardButtonBottomConstraint = NSLayoutConstraint(item: self.nextKeyboardButton, attribute: .Bottom, relatedBy: .Equal, toItem: self.view, attribute: .Bottom, multiplier: 1.0, constant: 0.0)
         self.view.addConstraints([nextKeyboardButtonLeftSideConstraint, nextKeyboardButtonBottomConstraint])
     }
+
+    let topRowLetters = ["Q","W","E","R","T","Y","U","I","O","P"]
+    let secondRowLetters = ["A","S","D","F","G","H","J","K","L"]
+    let thirdRowLetters = ["Z","X","C","V","B","N","M"]
     
     func addKeyboardButtons() {
         addNextKeyboardButton()
-        addDot()
+        layoutRow(topRowLetters, vertOffset: -50)
+        layoutRow(secondRowLetters, vertOffset: 0)
+        layoutRow(thirdRowLetters, vertOffset: 50)
     }
     
-    var topRowLetters = ["A","B","C","D","E","F"]
-    
-    func addDot() {
-        // initialize the button
-        dotButton = buildButton("A",
-            action: "didTapDot",
-            position:CGPointMake(0, 0))
+    func layoutRow(letters: [String], vertOffset: CGFloat) {
         
-        view.addSubview(dotButton)
+        let count = letters.count
+        var centerYConstraint: NSLayoutConstraint
+        var centerXConstraint: NSLayoutConstraint
+
+        let isOdd = count%2 != 0
+        var leftButtonOffsetFromCenter: Int
+        if isOdd {
+            leftButtonOffsetFromCenter = (count - 1)/2 * 32
+        } else {
+            leftButtonOffsetFromCenter = (count / 2) * 32 - 16
+        }
         
-        // makes the vertical centers equal;
-        var dotCenterYConstraint = NSLayoutConstraint(item: dotButton, attribute: .CenterY, relatedBy: .Equal, toItem: view, attribute: .CenterY, multiplier: 1.0, constant: 0)
-        
-        // set the button 50 points to the left (-) of the horizontal center
-        var dotCenterXConstraint = NSLayoutConstraint(item: dotButton, attribute: .CenterX, relatedBy: .Equal, toItem: view, attribute: .CenterX, multiplier: 1.0, constant: -50)
-//
-        view.addConstraints([dotCenterXConstraint, dotCenterYConstraint])
+        for i in 0..<count  {
+            let button = buildButton(letters[i], action: "didTapDot")
+            view.addSubview(button)
+            var offset = i * 32 - leftButtonOffsetFromCenter
+            centerXConstraint = NSLayoutConstraint(item: button,
+                attribute: .CenterX,
+                relatedBy: .Equal,
+                toItem: view,
+                attribute: .CenterX,
+                multiplier: 1.0,
+                constant: CGFloat(offset))
+            centerYConstraint = NSLayoutConstraint(item: button,
+                attribute: .CenterY,
+                relatedBy: .Equal,
+                toItem: view,
+                attribute: .CenterY,
+                multiplier: 1.0,
+                constant: CGFloat(vertOffset))
+            
+            view.addConstraints([centerXConstraint, centerYConstraint])
+        }
     }
     
-    func buildButton(title: String!, action: Selector, position: CGPoint) -> UIButton! {
+    func buildButton(title: String!, action: Selector) -> UIButton! {
         var button: UIButton
         button = UIButton.buttonWithType(.Custom) as UIButton
-//        button.frame = CGRect(x: position.x, y: position.y, width: 52, height: 78)
-        //button.sizeToFit()
-        button.sizeThatFits(CGSizeMake(52, 78))
+        button = UIButton(frame: CGRectMake(0, 0, 52, 78))
         button.setTranslatesAutoresizingMaskIntoConstraints(false)
         button.setTitle(title, forState: .Normal)
         button.addTarget(self, action: action, forControlEvents: .TouchUpInside)
         button.titleLabel.font = UIFont(name: "HelveticaNeue-Light", size: 26)
         button.titleLabel.textAlignment = NSTextAlignment.Center
         button.setTitleColor(UIColor.blackColor(), forState: .Normal)
-        // Font color
         button.backgroundColor = UIColor(white: 0.9, alpha: 1)
         button.layer.cornerRadius = 5
         return button
