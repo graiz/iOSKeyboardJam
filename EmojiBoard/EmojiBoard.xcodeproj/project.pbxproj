@@ -14,6 +14,7 @@
 		38BCE64219AD87CD00FAFB7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38BCE64019AD87CD00FAFB7E /* Main.storyboard */; };
 		38BCE64419AD87CD00FAFB7E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38BCE64319AD87CD00FAFB7E /* Images.xcassets */; };
 		38BCE65019AD87CD00FAFB7E /* EmojiBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BCE64F19AD87CD00FAFB7E /* EmojiBoardTests.swift */; };
+		D799963819ADD189009A84F0 /* emoji 2.plist in Resources */ = {isa = PBXBuildFile; fileRef = D799963719ADD189009A84F0 /* emoji 2.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		38BCE64919AD87CD00FAFB7E /* EmojiBoardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmojiBoardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38BCE64E19AD87CD00FAFB7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38BCE64F19AD87CD00FAFB7E /* EmojiBoardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiBoardTests.swift; sourceTree = "<group>"; };
+		D799963719ADD189009A84F0 /* emoji 2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "emoji 2.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 		3859970C19AD8EED005DDA1E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D799963719ADD189009A84F0 /* emoji 2.plist */,
 				3859970D19AD8EED005DDA1E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -272,6 +275,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D799963819ADD189009A84F0 /* emoji 2.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -518,6 +522,7 @@
 				3859971619AD8EED005DDA1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		38BCE63219AD87CC00FAFB7E /* Build configuration list for PBXProject "EmojiBoard" */ = {
 			isa = XCConfigurationList;
