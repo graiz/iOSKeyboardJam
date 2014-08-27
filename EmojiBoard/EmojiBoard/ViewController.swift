@@ -8,11 +8,19 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UITextFieldDelegate {
                             
+    @IBOutlet weak var textfield: UITextField!
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        println(" in view did load")
+    }
+    
+    override func viewDidAppear(animated: Bool) {
+        textfield.becomeFirstResponder()
+        println(" in view did appear")
+
     }
 
     override func didReceiveMemoryWarning() {
