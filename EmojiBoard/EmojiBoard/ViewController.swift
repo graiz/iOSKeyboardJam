@@ -15,7 +15,16 @@ class ViewController: UIViewController, UITextFieldDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         println(" in view did load")
+        //printFontFamilies()
+//        let font = UIFont.fontNamesForFamilyName("Helvetica Neue")
+//        println("\(font)")
     }
+    
+    func printFontFamilies() {
+        let family = UIFont.familyNames()
+        println("\(family)")
+    }
+
     
     override func viewDidAppear(animated: Bool) {
         textfield.becomeFirstResponder()
