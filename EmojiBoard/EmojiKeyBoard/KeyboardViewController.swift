@@ -18,14 +18,31 @@ class KeyboardViewController: UIInputViewController {
     
     override func updateViewConstraints() {
         super.updateViewConstraints()
-    
-        // Add custom view sizing constraints here
+        addVerticalConstraint()
     }
 
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         addKeyboardButtons()
+    }
+
+    
+    func addVerticalConstraint() {
+        let _expandedHeight: CGFloat = 600;
+        let _heightConstraint =
+            NSLayoutConstraint(item:view,
+                attribute: .Height,
+                relatedBy: .Equal,
+                toItem: nil,
+                attribute: .NotAnAttribute,
+                multiplier: 1.0,
+                constant: _expandedHeight);
+        view.addConstraint(_heightConstraint);
     }
     
     func addNextKeyboardButton() {
@@ -56,10 +73,27 @@ class KeyboardViewController: UIInputViewController {
     }
     
     func layoutRow(letters: [String], vertOffset: CGFloat) {
-        
+        // Nested
+        func constraints(button: UIButton, horizOffset: CGFloat, vertOffset: CGFloat) -> [NSLayoutConstraint] {
+            let centerXConstraint = NSLayoutConstraint(item: button,
+                attribute: .CenterX,
+                relatedBy: .Equal,
+                toItem: view,
+                attribute: .CenterX,
+                multiplier: 1.0,
+                constant: CGFloat(horizOffset))
+            let centerYConstraint = NSLayoutConstraint(item: button,
+                attribute: .CenterY,
+                relatedBy: .Equal,
+                toItem: view,
+                attribute: .CenterY,
+                multiplier: 1.0,
+                constant: CGFloat(vertOffset))
+            
+            return [centerXConstraint, centerYConstraint]
+        }
+        // Execution
         let count = letters.count
-        var centerYConstraint: NSLayoutConstraint
-        var centerXConstraint: NSLayoutConstraint
 
         let isOdd = count%2 != 0
         var leftButtonOffsetFromCenter: Int
@@ -73,25 +107,11 @@ class KeyboardViewController: UIInputViewController {
             let button = buildButton(letters[i], action: "didTapLetter:")
             view.addSubview(button)
             var offset = i * 32 - leftButtonOffsetFromCenter
-            centerXConstraint = NSLayoutConstraint(item: button,
-                attribute: .CenterX,
-                relatedBy: .Equal,
-                toItem: view,
-                attribute: .CenterX,
-                multiplier: 1.0,
-                constant: CGFloat(offset))
-            centerYConstraint = NSLayoutConstraint(item: button,
-                attribute: .CenterY,
-                relatedBy: .Equal,
-                toItem: view,
-                attribute: .CenterY,
-                multiplier: 1.0,
-                constant: CGFloat(vertOffset))
-            
-            view.addConstraints([centerXConstraint, centerYConstraint])
+            let constraints_ = constraints(button, CGFloat(offset), vertOffset)
+            view.addConstraints(constraints_)
         }
     }
-    
+
     func buildButton(title: String!, action: Selector) -> UIButton! {
         var button: UIButton
         button = UIButton.buttonWithType(.Custom) as UIButton
@@ -102,8 +122,10 @@ class KeyboardViewController: UIInputViewController {
         button.titleLabel.font = UIFont(name: "HelveticaNeue-Light", size: 26)
         button.titleLabel.textAlignment = NSTextAlignment.Center
         button.setTitleColor(UIColor.blackColor(), forState: .Normal)
-        button.backgroundColor = UIColor(white: 0.9, alpha: 1)
+//        button.backgroundColor = UIColor(white: 0.9, alpha: 1)
         button.layer.cornerRadius = 5
+        button.setBackgroundImage(UIImage(contentsOfFile: "btn_keyboard_normal.png"), forState: .Normal)
+//        button.setBackgroundImage(UIImage(contentsOfFile: "btn_keyboard_down.png"), forState: .Highlighted)
         return button
     }
     
@@ -123,11 +145,8 @@ class KeyboardViewController: UIInputViewController {
         }
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated
-    }
-
+//MARK: - UITextViewDelegate
+    
     override func textWillChange(textInput: UITextInput) {
         // The app is about to change the document's contents. Perform any preparation here.
     }

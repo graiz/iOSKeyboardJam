@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+		<key>⃣</key>
+        <string>keycap 1</string>
+		<key>⃣</key>
+        <string>keycap 2</string>
+		<key>⃣</key>
+        <string>keycap 3</string>
+		<key>⃣</key>
+        <string>keycap 4</string>
+		<key>⃣</key>
+        <string>keycap 5</string>
+		<key>⃣</key>
+        <string>keycap 6</string>
+		<key>⃣</key>
+        <string>keycap 7</string>
+		<key>⃣</key>
+        <string>keycap 8</string>
+		<key>⃣</key>
+        <string>keycap 9</string>
+		<key>⃣</key>
+        <string>keycap 0</string>
+		<key>🔟</key>
+        <string>keycap ten</string>
+		<key>🔢</key>
+        <string>input symbol for numbers</string>
+		<key>⃣</key>
+        <string>hash key</string>
+		<key>🔣</key>
+        <string>input symbol for symbols</string>
+		<key>⬆</key>
+        <string>upwards black arrow</string>
+		<key>⬇</key>
+        <string>downwards black arrow</string>
+		<key>⬅</key>
+        <string>leftwards black arrow</string>
+		<key>➡</key>
+        <string>black rightwards arrow</string>
+		<key>🔠</key>
+        <string>input symbol for latin capital letters</string>
+		<key>🔡</key>
+        <string>input symbol for latin small letters</string>
+		<key>🔤</key>
+        <string>input symbol for latin letters</string>
+		<key>↗</key>
+        <string>north east arrow</string>
+		<key>↖</key>
+        <string>north west arrow</string>
+		<key>↘</key>
+        <string>south east arrow</string>
+		<key>↙</key>
+        <string>south west arrow</string>
+		<key>↔</key>
+        <string>left right arrow</string>
+		<key>↕</key>
+        <string>up down arrow</string>
+		<key>🔄</key>
+        <string>anticlockwise downwards and upwards open circle arrows</string>
+		<key>◀</key>
+        <string>black left-pointing triangle</string>
+		<key>▶</key>
+        <string>black right-pointing triangle</string>
+		<key>🔼</key>
+        <string>up-pointing small red triangle</string>
+		<key>🔽</key>
+        <string>down-pointing small red triangle</string>
+		<key>↩</key>
+        <string>leftwards arrow with hook</string>
+		<key>↪</key>
+        <string>rightwards arrow with hook</string>
+		<key>ℹ</key>
+        <string>information source</string>
+		<key>⏪</key>
+        <string>black left-pointing double triangle</string>
+		<key>⏩</key>
+        <string>black right-pointing double triangle</string>
+		<key>⏫</key>
+        <string>black up-pointing double triangle</string>
+		<key>⏬</key>
+        <string>black down-pointing double triangle</string>
+		<key>⤵</key>
+        <string>arrow pointing rightwards then curving downwards</string>
+		<key>⤴</key>
+        <string>arrow pointing rightwards then curving upwards</string>
+		<key>🆗</key>
+        <string>squared ok</string>
+		<key>🔀</key>
+        <string>twisted rightwards arrows</string>
+		<key>🔁</key>
+        <string>clockwise rightwards and leftwards open circle arrows</string>
+		<key>🔂</key>
+        <string>clockwise rightwards and leftwards open circle arrows with circled one overlay</string>
+		<key>🆕</key>
+        <string>squared new</string>
+		<key>🆙</key>
+        <string>squared up with exclamation mark</string>
+		<key>🆒</key>
+        <string>squared cool</string>
+		<key>🆓</key>
+        <string>squared free</string>
+		<key>🆖</key>
+        <string>squared ng</string>
+		<key>📶</key>
+        <string>antenna with bars</string>
+		<key>🎦</key>
+        <string>cinema</string>
+		<key>🈁</key>
+        <string>squared katakana koko</string>
+		<key>🈯</key>
+        <string>squared cjk unified ideograph-6307</string>
+		<key>🈳</key>
+        <string>squared cjk unified ideograph-7a7a</string>
+		<key>🈵</key>
+        <string>squared cjk unified ideograph-6e80</string>
+		<key>🈴</key>
+        <string>squared cjk unified ideograph-5408</string>
+		<key>🈲</key>
+        <string>squared cjk unified ideograph-7981</string>
+		<key>🉐</key>
+        <string>circled ideograph advantage</string>
+		<key>🈹</key>
+        <string>squared cjk unified ideograph-5272</string>
+		<key>🈺</key>
+        <string>squared cjk unified ideograph-55b6</string>
+		<key>🈶</key>
+        <string>squared cjk unified ideograph-6709</string>
+		<key>🈚</key>
+        <string>squared cjk unified ideograph-7121</string>
+		<key>🚻</key>
+        <string>restroom</string>
+		<key>🚹</key>
+        <string>mens symbol</string>
+		<key>🚺</key>
+        <string>womens symbol</string>
+		<key>🚼</key>
+        <string>baby symbol</string>
+		<key>🚾</key>
+        <string>water closet</string>
+		<key>🚰</key>
+        <string>potable water symbol</string>
+		<key>🚮</key>
+        <string>put litter in its place symbol</string>
+		<key>🅿</key>
+        <string>negative squared latin capital letter p</string>
+		<key>♿</key>
+        <string>wheelchair symbol</string>
+		<key>🚭</key>
+        <string>no smoking symbol</string>
+		<key>🈷</key>
+        <string>squared cjk unified ideograph-6708</string>
+		<key>🈸</key>
+        <string>squared cjk unified ideograph-7533</string>
+		<key>🈂</key>
+        <string>squared katakana sa</string>
+		<key>Ⓜ</key>
+        <string>circled latin capital letter m</string>
+		<key>🛂</key>
+        <string>passport control</string>
+		<key>🛄</key>
+        <string>baggage claim</string>
+		<key>🛅</key>
+        <string>left luggage</string>
+		<key>🛃</key>
+        <string>customs</string>
+		<key>🉑</key>
+        <string>circled ideograph accept</string>
+		<key>㊙</key>
+        <string>circled ideograph secret</string>
+		<key>㊗</key>
+        <string>circled ideograph congratulation</string>
+		<key>🆑</key>
+        <string>squared cl</string>
+		<key>🆘</key>
+        <string>squared sos</string>
+		<key>🆔</key>
+        <string>squared id</string>
+		<key>🚫</key>
+        <string>no entry sign</string>
+		<key>🔞</key>
+        <string>no one under eighteen symbol</string>
+		<key>📵</key>
+        <string>no mobile phones</string>
+		<key>🚯</key>
+        <string>do not litter symbol</string>
+		<key>🚱</key>
+        <string>non-potable water symbol</string>
+		<key>🚳</key>
+        <string>no bicycles</string>
+		<key>🚷</key>
+        <string>no pedestrians</string>
+		<key>🚸</key>
+        <string>children crossing</string>
+		<key>⛔</key>
+        <string>no entry</string>
+		<key>✳</key>
+        <string>eight spoked asterisk</string>
+		<key>❇</key>
+        <string>sparkle</string>
+		<key>❎</key>
+        <string>negative squared cross mark</string>
+		<key>✅</key>
+        <string>white heavy check mark</string>
+		<key>✴</key>
+        <string>eight pointed black star</string>
+		<key>💟</key>
+        <string>heart decoration</string>
+		<key>🆚</key>
+        <string>squared vs</string>
+		<key>📳</key>
+        <string>vibration mode</string>
+		<key>📴</key>
+        <string>mobile phone off</string>
+		<key>🅰</key>
+        <string>negative squared latin capital letter a</string>
+		<key>🅱</key>
+        <string>negative squared latin capital letter b</string>
+		<key>🆎</key>
+        <string>negative squared ab</string>
+		<key>🅾</key>
+        <string>negative squared latin capital letter o</string>
+		<key>💠</key>
+        <string>diamond shape with a dot inside</string>
+		<key>➿</key>
+        <string>double curly loop</string>
+		<key>♻</key>
+        <string>black universal recycling symbol</string>
+		<key>♈</key>
+        <string>aries</string>
+		<key>♉</key>
+        <string>taurus</string>
+		<key>♊</key>
+        <string>gemini</string>
+		<key>♋</key>
+        <string>cancer</string>
+		<key>♌</key>
+        <string>leo</string>
+		<key>♍</key>
+        <string>virgo</string>
+		<key>♎</key>
+        <string>libra</string>
+		<key>♏</key>
+        <string>scorpius</string>
+		<key>♐</key>
+        <string>sagittarius</string>
+		<key>♑</key>
+        <string>capricorn</string>
+		<key>♒</key>
+        <string>aquarius</string>
+		<key>♓</key>
+        <string>pisces</string>
+		<key>⛎</key>
+        <string>ophiuchus</string>
+		<key>🔯</key>
+        <string>six pointed star with middle dot</string>
+		<key>🏧</key>
+        <string>automated teller machine</string>
+		<key>💹</key>
+        <string>chart with upwards trend and yen sign</string>
+		<key>💲</key>
+        <string>heavy dollar sign</string>
+		<key>💱</key>
+        <string>currency exchange</string>
+		<key>©</key>
+        <string>copyright sign</string>
+		<key>®</key>
+        <string>registered sign</string>
+		<key>™</key>
+        <string>trade mark sign</string>
+		<key>❌</key>
+        <string>cross mark</string>
+		<key>‼</key>
+        <string>double exclamation mark</string>
+		<key>⁉</key>
+        <string>exclamation question mark</string>
+		<key>❗</key>
+        <string>heavy exclamation mark symbol</string>
+		<key>❓</key>
+        <string>black question mark ornament</string>
+		<key>❕</key>
+        <string>white exclamation mark ornament</string>
+		<key>❔</key>
+        <string>white question mark ornament</string>
+		<key>⭕</key>
+        <string>heavy large circle</string>
+		<key>🔝</key>
+        <string>top with upwards arrow above</string>
+		<key>🔚</key>
+        <string>end with leftwards arrow above</string>
+		<key>🔙</key>
+        <string>back with leftwards arrow above</string>
+		<key>🔛</key>
+        <string>on with exclamation mark with left right arrow above</string>
+		<key>🔜</key>
+        <string>soon with rightwards arrow above</string>
+		<key>🔃</key>
+        <string>clockwise downwards and upwards open circle arrows</string>
+		<key>🕛</key>
+        <string>clock face twelve oclock</string>
+		<key>🕧</key>
+        <string>clock face twelve-thirty</string>
+		<key>🕐</key>
+        <string>clock face one oclock</string>
+		<key>🕜</key>
+        <string>clock face one-thirty</string>
+		<key>🕑</key>
+        <string>clock face two oclock</string>
+		<key>🕝</key>
+        <string>clock face two-thirty</string>
+		<key>🕒</key>
+        <string>clock face three oclock</string>
+		<key>🕞</key>
+        <string>clock face three-thirty</string>
+		<key>🕓</key>
+        <string>clock face four oclock</string>
+		<key>🕟</key>
+        <string>clock face four-thirty</string>
+		<key>🕔</key>
+        <string>clock face five oclock</string>
+		<key>🕠</key>
+        <string>clock face five-thirty</string>
+		<key>🕕</key>
+        <string>clock face six oclock</string>
+		<key>🕖</key>
+        <string>clock face seven oclock</string>
+		<key>🕗</key>
+        <string>clock face eight oclock</string>
+		<key>🕘</key>
+        <string>clock face nine oclock</string>
+		<key>🕙</key>
+        <string>clock face ten oclock</string>
+		<key>🕚</key>
+        <string>clock face eleven oclock</string>
+		<key>🕡</key>
+        <string>clock face six-thirty</string>
+		<key>🕢</key>
+        <string>clock face seven-thirty</string>
+		<key>🕣</key>
+        <string>clock face eight-thirty</string>
+		<key>🕤</key>
+        <string>clock face nine-thirty</string>
+		<key>🕥</key>
+        <string>clock face ten-thirty</string>
+		<key>🕦</key>
+        <string>clock face eleven-thirty</string>
+		<key>✖</key>
+        <string>heavy multiplication x</string>
+		<key>➕</key>
+        <string>heavy plus sign</string>
+		<key>➖</key>
+        <string>heavy minus sign</string>
+		<key>➗</key>
+        <string>heavy division sign</string>
+		<key>♠</key>
+        <string>black spade suit</string>
+		<key>♥</key>
+        <string>black heart suit</string>
+		<key>♣</key>
+        <string>black club suit</string>
+		<key>♦</key>
+        <string>black diamond suit</string>
+		<key>💮</key>
+        <string>white flower</string>
+		<key>💯</key>
+        <string>hundred points symbol</string>
+		<key>✔</key>
+        <string>heavy check mark</string>
+		<key>☑</key>
+        <string>ballot box with check</string>
+		<key>🔘</key>
+        <string>radio button</string>
+		<key>🔗</key>
+        <string>link symbol</string>
+		<key>➰</key>
+        <string>curly loop</string>
+		<key>〰</key>
+        <string>wavy dash</string>
+		<key>〽</key>
+        <string>part alternation mark</string>
+		<key>🔱</key>
+        <string>trident emblem</string>
+		<key>◼</key>
+        <string>black medium square</string>
+		<key>◻</key>
+        <string>white medium square</string>
+		<key>◾</key>
+        <string>black medium small square</string>
+		<key>◽</key>
+        <string>white medium small square</string>
+		<key>▪</key>
+        <string>black small square</string>
+		<key>▫</key>
+        <string>white small square</string>
+		<key>🔺</key>
+        <string>up-pointing red triangle</string>
+		<key>🔲</key>
+        <string>black square button</string>
+		<key>🔳</key>
+        <string>white square button</string>
+		<key>⚫</key>
+        <string>medium black circle</string>
+		<key>⚪</key>
+        <string>medium white circle</string>
+		<key>🔴</key>
+        <string>large red circle</string>
+		<key>🔵</key>
+        <string>large blue circle</string>
+		<key>🔻</key>
+        <string>down-pointing red triangle</string>
+		<key>⬜</key>
+        <string>white large square</string>
+		<key>⬛</key>
+        <string>black large square</string>
+		<key>🔶</key>
+        <string>large orange diamond</string>
+		<key>🔷</key>
+        <string>large blue diamond</string>
+		<key>🔸</key>
+        <string>small orange diamond</string>
+		<key>🔹</key>
+        <string>small blue diamond</string>
+		<key>🐶</key>
+        <string>dog face</string>
+		<key>🐺</key>
+        <string>wolf face</string>
+		<key>🐱</key>
+        <string>cat face</string>
+		<key>🐭</key>
+        <string>mouse face</string>
+		<key>🐹</key>
+        <string>hamster face</string>
+		<key>🐰</key>
+        <string>rabbit face</string>
+		<key>🐸</key>
+        <string>frog face</string>
+		<key>🐯</key>
+        <string>tiger face</string>
+		<key>🐨</key>
+        <string>koala</string>
+		<key>🐻</key>
+        <string>bear face</string>
+		<key>🐷</key>
+        <string>pig face</string>
+		<key>🐽</key>
+        <string>pig nose</string>
+		<key>🐮</key>
+        <string>cow face</string>
+		<key>🐗</key>
+        <string>boar</string>
+		<key>🐵</key>
+        <string>monkey face</string>
+		<key>🐒</key>
+        <string>monkey</string>
+		<key>🐴</key>
+        <string>horse face</string>
+		<key>🐑</key>
+        <string>sheep</string>
+		<key>🐘</key>
+        <string>elephant</string>
+		<key>🐼</key>
+        <string>panda face</string>
+		<key>🐧</key>
+        <string>penguin</string>
+		<key>🐦</key>
+        <string>bird</string>
+		<key>🐤</key>
+        <string>baby chick</string>
+		<key>🐥</key>
+        <string>front-facing baby chick</string>
+		<key>🐣</key>
+        <string>hatching chick</string>
+		<key>🐔</key>
+        <string>chicken</string>
+		<key>🐍</key>
+        <string>snake</string>
+		<key>🐢</key>
+        <string>turtle</string>
+		<key>🐛</key>
+        <string>bug</string>
+		<key>🐝</key>
+        <string>honeybee</string>
+		<key>🐜</key>
+        <string>ant</string>
+		<key>🐞</key>
+        <string>lady beetle</string>
+		<key>🐌</key>
+        <string>snail</string>
+		<key>🐙</key>
+        <string>octopus</string>
+		<key>🐚</key>
+        <string>spiral shell</string>
+		<key>🐠</key>
+        <string>tropical fish</string>
+		<key>🐟</key>
+        <string>fish</string>
+		<key>🐬</key>
+        <string>dolphin</string>
+		<key>🐳</key>
+        <string>spouting whale</string>
+		<key>🐋</key>
+        <string>whale</string>
+		<key>🐄</key>
+        <string>cow</string>
+		<key>🐏</key>
+        <string>ram</string>
+		<key>🐀</key>
+        <string>rat</string>
+		<key>🐃</key>
+        <string>water buffalo</string>
+		<key>🐅</key>
+        <string>tiger</string>
+		<key>🐇</key>
+        <string>rabbit</string>
+		<key>🐉</key>
+        <string>dragon</string>
+		<key>🐎</key>
+        <string>horse</string>
+		<key>🐐</key>
+        <string>goat</string>
+		<key>🐓</key>
+        <string>rooster</string>
+		<key>🐕</key>
+        <string>dog</string>
+		<key>🐖</key>
+        <string>pig</string>
+		<key>🐁</key>
+        <string>mouse</string>
+		<key>🐂</key>
+        <string>ox</string>
+		<key>🐲</key>
+        <string>dragon face</string>
+		<key>🐡</key>
+        <string>blowfish</string>
+		<key>🐊</key>
+        <string>crocodile</string>
+		<key>🐫</key>
+        <string>bactrian camel</string>
+		<key>🐪</key>
+        <string>dromedary camel</string>
+		<key>🐆</key>
+        <string>leopard</string>
+		<key>🐈</key>
+        <string>cat</string>
+		<key>🐩</key>
+        <string>poodle</string>
+		<key>🐾</key>
+        <string>paw prints</string>
+		<key>💐</key>
+        <string>bouquet</string>
+		<key>🌸</key>
+        <string>cherry blossom</string>
+		<key>🌷</key>
+        <string>tulip</string>
+		<key>🍀</key>
+        <string>four leaf clover</string>
+		<key>🌹</key>
+        <string>rose</string>
+		<key>🌻</key>
+        <string>sunflower</string>
+		<key>🌺</key>
+        <string>hibiscus</string>
+		<key>🍁</key>
+        <string>maple leaf</string>
+		<key>🍃</key>
+        <string>leaf fluttering in wind</string>
+		<key>🍂</key>
+        <string>fallen leaf</string>
+		<key>🌿</key>
+        <string>herb</string>
+		<key>🌾</key>
+        <string>ear of rice</string>
+		<key>🍄</key>
+        <string>mushroom</string>
+		<key>🌵</key>
+        <string>cactus</string>
+		<key>🌴</key>
+        <string>palm tree</string>
+		<key>🌲</key>
+        <string>evergreen tree</string>
+		<key>🌳</key>
+        <string>deciduous tree</string>
+		<key>🌰</key>
+        <string>chestnut</string>
+		<key>🌱</key>
+        <string>seedling</string>
+		<key>🌼</key>
+        <string>blossom</string>
+		<key>🌐</key>
+        <string>globe with meridians</string>
+		<key>🌞</key>
+        <string>sun with face</string>
+		<key>🌝</key>
+        <string>full moon with face</string>
+		<key>🌚</key>
+        <string>new moon with face</string>
+		<key>🌑</key>
+        <string>new moon symbol</string>
+		<key>🌒</key>
+        <string>waxing crescent moon symbol</string>
+		<key>🌓</key>
+        <string>first quarter moon symbol</string>
+		<key>🌔</key>
+        <string>waxing gibbous moon symbol</string>
+		<key>🌕</key>
+        <string>full moon symbol</string>
+		<key>🌖</key>
+        <string>waning gibbous moon symbol</string>
+		<key>🌗</key>
+        <string>last quarter moon symbol</string>
+		<key>🌘</key>
+        <string>waning crescent moon symbol</string>
+		<key>🌜</key>
+        <string>last quarter moon with face</string>
+		<key>🌛</key>
+        <string>first quarter moon with face</string>
+		<key>🌙</key>
+        <string>crescent moon</string>
+		<key>🌍</key>
+        <string>earth globe europe-africa</string>
+		<key>🌎</key>
+        <string>earth globe americas</string>
+		<key>🌏</key>
+        <string>earth globe asia-australia</string>
+		<key>🌋</key>
+        <string>volcano</string>
+		<key>🌌</key>
+        <string>milky way</string>
+		<key>🌠</key>
+        <string>shooting star</string>
+		<key>⭐</key>
+        <string>white medium star</string>
+		<key>☀</key>
+        <string>black sun with rays</string>
+		<key>⛅</key>
+        <string>sun behind cloud</string>
+		<key>☁</key>
+        <string>cloud</string>
+		<key>⚡</key>
+        <string>high voltage sign</string>
+		<key>☔</key>
+        <string>umbrella with rain drops</string>
+		<key>❄</key>
+        <string>snowflake</string>
+		<key>⛄</key>
+        <string>snowman without snow</string>
+		<key>🌀</key>
+        <string>cyclone</string>
+		<key>🌁</key>
+        <string>foggy</string>
+		<key>🌈</key>
+        <string>rainbow</string>
+		<key>🌊</key>
+        <string>water wave</string>
+		<key>🎍</key>
+        <string>pine decoration</string>
+		<key>💝</key>
+        <string>heart with ribbon</string>
+		<key>🎎</key>
+        <string>japanese dolls</string>
+		<key>🎒</key>
+        <string>school satchel</string>
+		<key>🎓</key>
+        <string>graduation cap</string>
+		<key>🎏</key>
+        <string>carp streamer</string>
+		<key>🎆</key>
+        <string>fireworks</string>
+		<key>🎇</key>
+        <string>firework sparkler</string>
+		<key>🎐</key>
+        <string>wind chime</string>
+		<key>🎑</key>
+        <string>moon viewing ceremony</string>
+		<key>🎃</key>
+        <string>jack-o-lantern</string>
+		<key>👻</key>
+        <string>ghost</string>
+		<key>🎅</key>
+        <string>father christmas</string>
+		<key>🎄</key>
+        <string>christmas tree</string>
+		<key>🎁</key>
+        <string>wrapped present</string>
+		<key>🎋</key>
+        <string>tanabata tree</string>
+		<key>🎉</key>
+        <string>party popper</string>
+		<key>🎊</key>
+        <string>confetti ball</string>
+		<key>🎈</key>
+        <string>balloon</string>
+		<key>🎌</key>
+        <string>crossed flags</string>
+		<key>🔮</key>
+        <string>crystal ball</string>
+		<key>🎥</key>
+        <string>movie camera</string>
+		<key>📷</key>
+        <string>camera</string>
+		<key>📹</key>
+        <string>video camera</string>
+		<key>📼</key>
+        <string>videocassette</string>
+		<key>💿</key>
+        <string>optical disc</string>
+		<key>📀</key>
+        <string>dvd</string>
+		<key>💽</key>
+        <string>minidisc</string>
+		<key>💾</key>
+        <string>floppy disk</string>
+		<key>💻</key>
+        <string>personal computer</string>
+		<key>📱</key>
+        <string>mobile phone</string>
+		<key>☎</key>
+        <string>black telephone</string>
+		<key>📞</key>
+        <string>telephone receiver</string>
+		<key>📟</key>
+        <string>pager</string>
+		<key>📠</key>
+        <string>fax machine</string>
+		<key>📡</key>
+        <string>satellite antenna</string>
+		<key>📺</key>
+        <string>television</string>
+		<key>📻</key>
+        <string>radio</string>
+		<key>🔊</key>
+        <string>speaker with three sound waves</string>
+		<key>🔉</key>
+        <string>speaker with one sound wave</string>
+		<key>🔈</key>
+        <string>speaker</string>
+		<key>🔇</key>
+        <string>speaker with cancellation stroke</string>
+		<key>🔔</key>
+        <string>bell</string>
+		<key>🔕</key>
+        <string>bell with cancellation stroke</string>
+		<key>📢</key>
+        <string>public address loudspeaker</string>
+		<key>📣</key>
+        <string>cheering megaphone</string>
+		<key>⏳</key>
+        <string>hourglass with flowing sand</string>
+		<key>⌛</key>
+        <string>hourglass</string>
+		<key>⏰</key>
+        <string>alarm clock</string>
+		<key>⌚</key>
+        <string>watch</string>
+		<key>🔓</key>
+        <string>open lock</string>
+		<key>🔒</key>
+        <string>lock</string>
+		<key>🔏</key>
+        <string>lock with ink pen</string>
+		<key>🔐</key>
+        <string>closed lock with key</string>
+		<key>🔑</key>
+        <string>key</string>
+		<key>🔎</key>
+        <string>right-pointing magnifying glass</string>
+		<key>💡</key>
+        <string>electric light bulb</string>
+		<key>🔦</key>
+        <string>electric torch</string>
+		<key>🔆</key>
+        <string>high brightness symbol</string>
+		<key>🔅</key>
+        <string>low brightness symbol</string>
+		<key>🔌</key>
+        <string>electric plug</string>
+		<key>🔋</key>
+        <string>battery</string>
+		<key>🔍</key>
+        <string>left-pointing magnifying glass</string>
+		<key>🛁</key>
+        <string>bathtub</string>
+		<key>🛀</key>
+        <string>bath</string>
+		<key>🚿</key>
+        <string>shower</string>
+		<key>🚽</key>
+        <string>toilet</string>
+		<key>🔧</key>
+        <string>wrench</string>
+		<key>🔩</key>
+        <string>nut and bolt</string>
+		<key>🔨</key>
+        <string>hammer</string>
+		<key>🚪</key>
+        <string>door</string>
+		<key>🚬</key>
+        <string>smoking symbol</string>
+		<key>💣</key>
+        <string>bomb</string>
+		<key>🔫</key>
+        <string>pistol</string>
+		<key>🔪</key>
+        <string>hocho</string>
+		<key>💊</key>
+        <string>pill</string>
+		<key>💉</key>
+        <string>syringe</string>
+		<key>💰</key>
+        <string>money bag</string>
+		<key>💴</key>
+        <string>banknote with yen sign</string>
+		<key>💵</key>
+        <string>banknote with dollar sign</string>
+		<key>💷</key>
+        <string>banknote with pound sign</string>
+		<key>💶</key>
+        <string>banknote with euro sign</string>
+		<key>💳</key>
+        <string>credit card</string>
+		<key>💸</key>
+        <string>money with wings</string>
+		<key>📲</key>
+        <string>mobile phone with rightwards arrow at left</string>
+		<key>📧</key>
+        <string>e-mail symbol</string>
+		<key>📥</key>
+        <string>inbox tray</string>
+		<key>📤</key>
+        <string>outbox tray</string>
+		<key>✉</key>
+        <string>envelope</string>
+		<key>📩</key>
+        <string>envelope with downwards arrow above</string>
+		<key>📨</key>
+        <string>incoming envelope</string>
+		<key>📯</key>
+        <string>postal horn</string>
+		<key>📫</key>
+        <string>closed mailbox with raised flag</string>
+		<key>📪</key>
+        <string>closed mailbox with lowered flag</string>
+		<key>📬</key>
+        <string>open mailbox with raised flag</string>
+		<key>📭</key>
+        <string>open mailbox with lowered flag</string>
+		<key>📮</key>
+        <string>postbox</string>
+		<key>📦</key>
+        <string>package</string>
+		<key>📝</key>
+        <string>memo</string>
+		<key>📄</key>
+        <string>page facing up</string>
+		<key>📃</key>
+        <string>page with curl</string>
+		<key>📑</key>
+        <string>bookmark tabs</string>
+		<key>📊</key>
+        <string>bar chart</string>
+		<key>📈</key>
+        <string>chart with upwards trend</string>
+		<key>📉</key>
+        <string>chart with downwards trend</string>
+		<key>📜</key>
+        <string>scroll</string>
+		<key>📋</key>
+        <string>clipboard</string>
+		<key>📅</key>
+        <string>calendar</string>
+		<key>📆</key>
+        <string>tear-off calendar</string>
+		<key>📇</key>
+        <string>card index</string>
+		<key>📁</key>
+        <string>file folder</string>
+		<key>📂</key>
+        <string>open file folder</string>
+		<key>✂</key>
+        <string>black scissors</string>
+		<key>📌</key>
+        <string>pushpin</string>
+		<key>📎</key>
+        <string>paperclip</string>
+		<key>✒</key>
+        <string>black nib</string>
+		<key>✏</key>
+        <string>pencil</string>
+		<key>📏</key>
+        <string>straight ruler</string>
+		<key>📐</key>
+        <string>triangular ruler</string>
+		<key>📕</key>
+        <string>closed book</string>
+		<key>📗</key>
+        <string>green book</string>
+		<key>📘</key>
+        <string>blue book</string>
+		<key>📙</key>
+        <string>orange book</string>
+		<key>📓</key>
+        <string>notebook</string>
+		<key>📔</key>
+        <string>notebook with decorative cover</string>
+		<key>📒</key>
+        <string>ledger</string>
+		<key>📚</key>
+        <string>books</string>
+		<key>📖</key>
+        <string>open book</string>
+		<key>🔖</key>
+        <string>bookmark</string>
+		<key>📛</key>
+        <string>name badge</string>
+		<key>🔬</key>
+        <string>microscope</string>
+		<key>🔭</key>
+        <string>telescope</string>
+		<key>📰</key>
+        <string>newspaper</string>
+		<key>🎨</key>
+        <string>artist palette</string>
+		<key>🎬</key>
+        <string>clapper board</string>
+		<key>🎤</key>
+        <string>microphone</string>
+		<key>🎧</key>
+        <string>headphone</string>
+		<key>🎼</key>
+        <string>musical score</string>
+		<key>🎵</key>
+        <string>musical note</string>
+		<key>🎶</key>
+        <string>multiple musical notes</string>
+		<key>🎹</key>
+        <string>musical keyboard</string>
+		<key>🎻</key>
+        <string>violin</string>
+		<key>🎺</key>
+        <string>trumpet</string>
+		<key>🎷</key>
+        <string>saxophone</string>
+		<key>🎸</key>
+        <string>guitar</string>
+		<key>👾</key>
+        <string>alien monster</string>
+		<key>🎮</key>
+        <string>video game</string>
+		<key>🃏</key>
+        <string>playing card black joker</string>
+		<key>🎴</key>
+        <string>flower playing cards</string>
+		<key>🀄</key>
+        <string>mahjong tile red dragon</string>
+		<key>🎲</key>
+        <string>game die</string>
+		<key>🎯</key>
+        <string>direct hit</string>
+		<key>🏈</key>
+        <string>american football</string>
+		<key>🏀</key>
+        <string>basketball and hoop</string>
+		<key>⚽</key>
+        <string>soccer ball</string>
+		<key>⚾</key>
+        <string>baseball</string>
+		<key>🎾</key>
+        <string>tennis racquet and ball</string>
+		<key>🎱</key>
+        <string>billiards</string>
+		<key>🏉</key>
+        <string>rugby football</string>
+		<key>🎳</key>
+        <string>bowling</string>
+		<key>⛳</key>
+        <string>flag in hole</string>
+		<key>🚵</key>
+        <string>mountain bicyclist</string>
+		<key>🚴</key>
+        <string>bicyclist</string>
+		<key>🏁</key>
+        <string>chequered flag</string>
+		<key>🏇</key>
+        <string>horse racing</string>
+		<key>🏆</key>
+        <string>trophy</string>
+		<key>🎿</key>
+        <string>ski and ski boot</string>
+		<key>🏂</key>
+        <string>snowboarder</string>
+		<key>🏊</key>
+        <string>swimmer</string>
+		<key>🏄</key>
+        <string>surfer</string>
+		<key>🎣</key>
+        <string>fishing pole and fish</string>
+		<key>☕</key>
+        <string>hot beverage</string>
+		<key>🍵</key>
+        <string>teacup without handle</string>
+		<key>🍶</key>
+        <string>sake bottle and cup</string>
+		<key>🍼</key>
+        <string>baby bottle</string>
+		<key>🍺</key>
+        <string>beer mug</string>
+		<key>🍻</key>
+        <string>clinking beer mugs</string>
+		<key>🍸</key>
+        <string>cocktail glass</string>
+		<key>🍹</key>
+        <string>tropical drink</string>
+		<key>🍷</key>
+        <string>wine glass</string>
+		<key>🍴</key>
+        <string>fork and knife</string>
+		<key>🍕</key>
+        <string>slice of pizza</string>
+		<key>🍔</key>
+        <string>hamburger</string>
+		<key>🍟</key>
+        <string>french fries</string>
+		<key>🍗</key>
+        <string>poultry leg</string>
+		<key>🍖</key>
+        <string>meat on bone</string>
+		<key>🍝</key>
+        <string>spaghetti</string>
+		<key>🍛</key>
+        <string>curry and rice</string>
+		<key>🍤</key>
+        <string>fried shrimp</string>
+		<key>🍱</key>
+        <string>bento box</string>
+		<key>🍣</key>
+        <string>sushi</string>
+		<key>🍥</key>
+        <string>fish cake with swirl design</string>
+		<key>🍙</key>
+        <string>rice ball</string>
+		<key>🍘</key>
+        <string>rice cracker</string>
+		<key>🍚</key>
+        <string>cooked rice</string>
+		<key>🍜</key>
+        <string>steaming bowl</string>
+		<key>🍲</key>
+        <string>pot of food</string>
+		<key>🍢</key>
+        <string>oden</string>
+		<key>🍡</key>
+        <string>dango</string>
+		<key>🍳</key>
+        <string>cooking</string>
+		<key>🍞</key>
+        <string>bread</string>
+		<key>🍩</key>
+        <string>doughnut</string>
+		<key>🍮</key>
+        <string>custard</string>
+		<key>🍦</key>
+        <string>soft ice cream</string>
+		<key>🍨</key>
+        <string>ice cream</string>
+		<key>🍧</key>
+        <string>shaved ice</string>
+		<key>🎂</key>
+        <string>birthday cake</string>
+		<key>🍰</key>
+        <string>shortcake</string>
+		<key>🍪</key>
+        <string>cookie</string>
+		<key>🍫</key>
+        <string>chocolate bar</string>
+		<key>🍬</key>
+        <string>candy</string>
+		<key>🍭</key>
+        <string>lollipop</string>
+		<key>🍯</key>
+        <string>honey pot</string>
+		<key>🍎</key>
+        <string>red apple</string>
+		<key>🍏</key>
+        <string>green apple</string>
+		<key>🍊</key>
+        <string>tangerine</string>
+		<key>🍋</key>
+        <string>lemon</string>
+		<key>🍒</key>
+        <string>cherries</string>
+		<key>🍇</key>
+        <string>grapes</string>
+		<key>🍉</key>
+        <string>watermelon</string>
+		<key>🍓</key>
+        <string>strawberry</string>
+		<key>🍑</key>
+        <string>peach</string>
+		<key>🍈</key>
+        <string>melon</string>
+		<key>🍌</key>
+        <string>banana</string>
+		<key>🍐</key>
+        <string>pear</string>
+		<key>🍍</key>
+        <string>pineapple</string>
+		<key>🍠</key>
+        <string>roasted sweet potato</string>
+		<key>🍆</key>
+        <string>aubergine</string>
+		<key>🍅</key>
+        <string>tomato</string>
+		<key>🌽</key>
+        <string>ear of maize</string>
+		<key>🏠</key>
+        <string>house building</string>
+		<key>🏡</key>
+        <string>house with garden</string>
+		<key>🏫</key>
+        <string>school</string>
+		<key>🏢</key>
+        <string>office building</string>
+		<key>🏣</key>
+        <string>japanese post office</string>
+		<key>🏥</key>
+        <string>hospital</string>
+		<key>🏦</key>
+        <string>bank</string>
+		<key>🏪</key>
+        <string>convenience store</string>
+		<key>🏩</key>
+        <string>love hotel</string>
+		<key>🏨</key>
+        <string>hotel</string>
+		<key>💒</key>
+        <string>wedding</string>
+		<key>⛪</key>
+        <string>church</string>
+		<key>🏬</key>
+        <string>department store</string>
+		<key>🏤</key>
+        <string>european post office</string>
+		<key>🌇</key>
+        <string>sunset over buildings</string>
+		<key>🌆</key>
+        <string>cityscape at dusk</string>
+		<key>🏯</key>
+        <string>japanese castle</string>
+		<key>🏰</key>
+        <string>european castle</string>
+		<key>⛺</key>
+        <string>tent</string>
+		<key>🏭</key>
+        <string>factory</string>
+		<key>🗼</key>
+        <string>tokyo tower</string>
+		<key>🗾</key>
+        <string>silhouette of japan</string>
+		<key>🗻</key>
+        <string>mount fuji</string>
+		<key>🌄</key>
+        <string>sunrise over mountains</string>
+		<key>🌅</key>
+        <string>sunrise</string>
+		<key>🌃</key>
+        <string>night with stars</string>
+		<key>🗽</key>
+        <string>statue of liberty</string>
+		<key>🌉</key>
+        <string>bridge at night</string>
+		<key>🎠</key>
+        <string>carousel horse</string>
+		<key>🎡</key>
+        <string>ferris wheel</string>
+		<key>⛲</key>
+        <string>fountain</string>
+		<key>🎢</key>
+        <string>roller coaster</string>
+		<key>🚢</key>
+        <string>ship</string>
+		<key>⛵</key>
+        <string>sailboat</string>
+		<key>🚤</key>
+        <string>speedboat</string>
+		<key>🚣</key>
+        <string>rowboat</string>
+		<key>⚓</key>
+        <string>anchor</string>
+		<key>🚀</key>
+        <string>rocket</string>
+		<key>✈</key>
+        <string>airplane</string>
+		<key>💺</key>
+        <string>seat</string>
+		<key>🚁</key>
+        <string>helicopter</string>
+		<key>🚂</key>
+        <string>steam locomotive</string>
+		<key>🚊</key>
+        <string>tram</string>
+		<key>🚉</key>
+        <string>station</string>
+		<key>🚞</key>
+        <string>mountain railway</string>
+		<key>🚆</key>
+        <string>train</string>
+		<key>🚄</key>
+        <string>high-speed train</string>
+		<key>🚅</key>
+        <string>high-speed train with bullet nose</string>
+		<key>🚈</key>
+        <string>light rail</string>
+		<key>🚇</key>
+        <string>metro</string>
+		<key>🚝</key>
+        <string>monorail</string>
+		<key>🚋</key>
+        <string>tram car</string>
+		<key>🚃</key>
+        <string>railway car</string>
+		<key>🚎</key>
+        <string>trolleybus</string>
+		<key>🚌</key>
+        <string>bus</string>
+		<key>🚍</key>
+        <string>oncoming bus</string>
+		<key>🚙</key>
+        <string>recreational vehicle</string>
+		<key>🚘</key>
+        <string>oncoming automobile</string>
+		<key>🚗</key>
+        <string>automobile</string>
+		<key>🚕</key>
+        <string>taxi</string>
+		<key>🚖</key>
+        <string>oncoming taxi</string>
+		<key>🚛</key>
+        <string>articulated lorry</string>
+		<key>🚚</key>
+        <string>delivery truck</string>
+		<key>🚨</key>
+        <string>police cars revolving light</string>
+		<key>🚓</key>
+        <string>police car</string>
+		<key>🚔</key>
+        <string>oncoming police car</string>
+		<key>🚒</key>
+        <string>fire engine</string>
+		<key>🚑</key>
+        <string>ambulance</string>
+		<key>🚐</key>
+        <string>minibus</string>
+		<key>🚲</key>
+        <string>bicycle</string>
+		<key>🚡</key>
+        <string>aerial tramway</string>
+		<key>🚟</key>
+        <string>suspension railway</string>
+		<key>🚠</key>
+        <string>mountain cableway</string>
+		<key>🚜</key>
+        <string>tractor</string>
+		<key>💈</key>
+        <string>barber pole</string>
+		<key>🚏</key>
+        <string>bus stop</string>
+		<key>🎫</key>
+        <string>ticket</string>
+		<key>🚦</key>
+        <string>vertical traffic light</string>
+		<key>🚥</key>
+        <string>horizontal traffic light</string>
+		<key>⚠</key>
+        <string>warning sign</string>
+		<key>🚧</key>
+        <string>construction sign</string>
+		<key>🔰</key>
+        <string>japanese symbol for beginner</string>
+		<key>⛽</key>
+        <string>fuel pump</string>
+		<key>🏮</key>
+        <string>izakaya lantern</string>
+		<key>🎰</key>
+        <string>slot machine</string>
+		<key>♨</key>
+        <string>hot springs</string>
+		<key>🗿</key>
+        <string>moyai</string>
+		<key>🎪</key>
+        <string>circus tent</string>
+		<key>🎭</key>
+        <string>performing arts</string>
+		<key>📍</key>
+        <string>round pushpin</string>
+		<key>🚩</key>
+        <string>triangular flag on post</string>
+		<key>🇯🇵</key>
+        <string>regional indicator symbol letters jp</string>
+		<key>🇰🇷</key>
+        <string>regional indicator symbol letters kr</string>
+		<key>🇩🇪</key>
+        <string>regional indicator symbol letters de</string>
+		<key>🇨🇳</key>
+        <string>regional indicator symbol letters cn</string>
+		<key>🇺🇸</key>
+        <string>regional indicator symbol letters us</string>
+		<key>🇫🇷</key>
+        <string>regional indicator symbol letters fr</string>
+		<key>🇪🇸</key>
+        <string>regional indicator symbol letters es</string>
+		<key>🇮🇹</key>
+        <string>regional indicator symbol letters it</string>
+		<key>🇷🇺</key>
+        <string>regional indicator symbol letters ru</string>
+		<key>🇬🇧</key>
+        <string>regional indicator symbol letters gb</string>
+		<key>😄</key>
+        <string>smiling face with open mouth and smiling eyes</string>
+		<key>😃</key>
+        <string>smiling face with open mouth</string>
+		<key>😀</key>
+        <string>grinning face</string>
+		<key>😊</key>
+        <string>smiling face with smiling eyes</string>
+		<key>☺</key>
+        <string>white smiling face</string>
+		<key>😉</key>
+        <string>winking face</string>
+		<key>😍</key>
+        <string>smiling face with heart-shaped eyes</string>
+		<key>😘</key>
+        <string>face throwing a kiss</string>
+		<key>😚</key>
+        <string>kissing face with closed eyes</string>
+		<key>😗</key>
+        <string>kissing face</string>
+		<key>😙</key>
+        <string>kissing face with smiling eyes</string>
+		<key>😜</key>
+        <string>face with stuck-out tongue and winking eye</string>
+		<key>😝</key>
+        <string>face with stuck-out tongue and tightly-closed eyes</string>
+		<key>😛</key>
+        <string>face with stuck-out tongue</string>
+		<key>😳</key>
+        <string>flushed face</string>
+		<key>😁</key>
+        <string>grinning face with smiling eyes</string>
+		<key>😔</key>
+        <string>pensive face</string>
+		<key>😌</key>
+        <string>relieved face</string>
+		<key>😒</key>
+        <string>unamused face</string>
+		<key>😞</key>
+        <string>disappointed face</string>
+		<key>😣</key>
+        <string>persevering face</string>
+		<key>😢</key>
+        <string>crying face</string>
+		<key>😂</key>
+        <string>face with tears of joy</string>
+		<key>😭</key>
+        <string>loudly crying face</string>
+		<key>😪</key>
+        <string>sleepy face</string>
+		<key>😥</key>
+        <string>disappointed but relieved face</string>
+		<key>😰</key>
+        <string>face with open mouth and cold sweat</string>
+		<key>😅</key>
+        <string>smiling face with open mouth and cold sweat</string>
+		<key>😓</key>
+        <string>face with cold sweat</string>
+		<key>😩</key>
+        <string>weary face</string>
+		<key>😫</key>
+        <string>tired face</string>
+		<key>😨</key>
+        <string>fearful face</string>
+		<key>😱</key>
+        <string>face screaming in fear</string>
+		<key>😠</key>
+        <string>angry face</string>
+		<key>😡</key>
+        <string>pouting face</string>
+		<key>😤</key>
+        <string>face with look of triumph</string>
+		<key>😖</key>
+        <string>confounded face</string>
+		<key>😆</key>
+        <string>smiling face with open mouth and tightly-closed eyes</string>
+		<key>😋</key>
+        <string>face savouring delicious food</string>
+		<key>😷</key>
+        <string>face with medical mask</string>
+		<key>😎</key>
+        <string>smiling face with sunglasses</string>
+		<key>😴</key>
+        <string>sleeping face</string>
+		<key>😵</key>
+        <string>dizzy face</string>
+		<key>😲</key>
+        <string>astonished face</string>
+		<key>😟</key>
+        <string>worried face</string>
+		<key>😦</key>
+        <string>frowning face with open mouth</string>
+		<key>😧</key>
+        <string>anguished face</string>
+		<key>😈</key>
+        <string>smiling face with horns</string>
+		<key>👿</key>
+        <string>imp</string>
+		<key>😮</key>
+        <string>face with open mouth</string>
+		<key>😬</key>
+        <string>grimacing face</string>
+		<key>😐</key>
+        <string>neutral face</string>
+		<key>😕</key>
+        <string>confused face</string>
+		<key>😯</key>
+        <string>hushed face</string>
+		<key>😶</key>
+        <string>face without mouth</string>
+		<key>😇</key>
+        <string>smiling face with halo</string>
+		<key>😏</key>
+        <string>smirking face</string>
+		<key>😑</key>
+        <string>expressionless face</string>
+		<key>👲</key>
+        <string>man with gua pi mao</string>
+		<key>👳</key>
+        <string>man with turban</string>
+		<key>👮</key>
+        <string>police officer</string>
+		<key>👷</key>
+        <string>construction worker</string>
+		<key>💂</key>
+        <string>guardsman</string>
+		<key>👶</key>
+        <string>baby</string>
+		<key>👦</key>
+        <string>boy</string>
+		<key>👧</key>
+        <string>girl</string>
+		<key>👨</key>
+        <string>man</string>
+		<key>👩</key>
+        <string>woman</string>
+		<key>👴</key>
+        <string>older man</string>
+		<key>👵</key>
+        <string>older woman</string>
+		<key>👱</key>
+        <string>person with blond hair</string>
+		<key>👼</key>
+        <string>baby angel</string>
+		<key>👸</key>
+        <string>princess</string>
+		<key>😺</key>
+        <string>smiling cat face with open mouth</string>
+		<key>😸</key>
+        <string>grinning cat face with smiling eyes</string>
+		<key>😻</key>
+        <string>smiling cat face with heart-shaped eyes</string>
+		<key>😽</key>
+        <string>kissing cat face with closed eyes</string>
+		<key>😼</key>
+        <string>cat face with wry smile</string>
+		<key>🙀</key>
+        <string>weary cat face</string>
+		<key>😿</key>
+        <string>crying cat face</string>
+		<key>😹</key>
+        <string>cat face with tears of joy</string>
+		<key>😾</key>
+        <string>pouting cat face</string>
+		<key>👹</key>
+        <string>japanese ogre</string>
+		<key>👺</key>
+        <string>japanese goblin</string>
+		<key>🙈</key>
+        <string>see-no-evil monkey</string>
+		<key>🙉</key>
+        <string>hear-no-evil monkey</string>
+		<key>🙊</key>
+        <string>speak-no-evil monkey</string>
+		<key>💀</key>
+        <string>skull</string>
+		<key>👽</key>
+        <string>extraterrestrial alien</string>
+		<key>💩</key>
+        <string>pile of poo</string>
+		<key>🔥</key>
+        <string>fire</string>
+		<key>✨</key>
+        <string>sparkles</string>
+		<key>🌟</key>
+        <string>glowing star</string>
+		<key>💫</key>
+        <string>dizzy symbol</string>
+		<key>💥</key>
+        <string>collision symbol</string>
+		<key>💢</key>
+        <string>anger symbol</string>
+		<key>💦</key>
+        <string>splashing sweat symbol</string>
+		<key>💧</key>
+        <string>droplet</string>
+		<key>💤</key>
+        <string>sleeping symbol</string>
+		<key>💨</key>
+        <string>dash symbol</string>
+		<key>👂</key>
+        <string>ear</string>
+		<key>👀</key>
+        <string>eyes</string>
+		<key>👃</key>
+        <string>nose</string>
+		<key>👅</key>
+        <string>tongue</string>
+		<key>👄</key>
+        <string>mouth</string>
+		<key>👍</key>
+        <string>thumbs up sign</string>
+		<key>👎</key>
+        <string>thumbs down sign</string>
+		<key>👌</key>
+        <string>ok hand sign</string>
+		<key>👊</key>
+        <string>fisted hand sign</string>
+		<key>✊</key>
+        <string>raised fist</string>
+		<key>✌</key>
+        <string>victory hand</string>
+		<key>👋</key>
+        <string>waving hand sign</string>
+		<key>✋</key>
+        <string>raised hand</string>
+		<key>👐</key>
+        <string>open hands sign</string>
+		<key>👆</key>
+        <string>white up pointing backhand index</string>
+		<key>👇</key>
+        <string>white down pointing backhand index</string>
+		<key>👉</key>
+        <string>white right pointing backhand index</string>
+		<key>👈</key>
+        <string>white left pointing backhand index</string>
+		<key>🙌</key>
+        <string>person raising both hands in celebration</string>
+		<key>🙏</key>
+        <string>person with folded hands</string>
+		<key>☝</key>
+        <string>white up pointing index</string>
+		<key>👏</key>
+        <string>clapping hands sign</string>
+		<key>💪</key>
+        <string>flexed biceps</string>
+		<key>🚶</key>
+        <string>pedestrian</string>
+		<key>🏃</key>
+        <string>runner</string>
+		<key>💃</key>
+        <string>dancer</string>
+		<key>👫</key>
+        <string>man and woman holding hands</string>
+		<key>👪</key>
+        <string>family</string>
+		<key>👬</key>
+        <string>two men holding hands</string>
+		<key>👭</key>
+        <string>two women holding hands</string>
+		<key>💏</key>
+        <string>kiss</string>
+		<key>💑</key>
+        <string>couple with heart</string>
+		<key>👯</key>
+        <string>woman with bunny ears</string>
+		<key>🙆</key>
+        <string>face with ok gesture</string>
+		<key>🙅</key>
+        <string>face with no good gesture</string>
+		<key>💁</key>
+        <string>information desk person</string>
+		<key>🙋</key>
+        <string>happy person raising one hand</string>
+		<key>💆</key>
+        <string>face massage</string>
+		<key>💇</key>
+        <string>haircut</string>
+		<key>💅</key>
+        <string>nail polish</string>
+		<key>👰</key>
+        <string>bride with veil</string>
+		<key>🙎</key>
+        <string>person with pouting face</string>
+		<key>🙍</key>
+        <string>person frowning</string>
+		<key>🙇</key>
+        <string>person bowing deeply</string>
+		<key>🎩</key>
+        <string>top hat</string>
+		<key>👑</key>
+        <string>crown</string>
+		<key>👒</key>
+        <string>womans hat</string>
+		<key>👟</key>
+        <string>athletic shoe</string>
+		<key>👞</key>
+        <string>mans shoe</string>
+		<key>👡</key>
+        <string>womans sandal</string>
+		<key>👠</key>
+        <string>high-heeled shoe</string>
+		<key>👢</key>
+        <string>womans boots</string>
+		<key>👕</key>
+        <string>t-shirt</string>
+		<key>👔</key>
+        <string>necktie</string>
+		<key>👚</key>
+        <string>womans clothes</string>
+		<key>👗</key>
+        <string>dress</string>
+		<key>🎽</key>
+        <string>running shirt with sash</string>
+		<key>👖</key>
+        <string>jeans</string>
+		<key>👘</key>
+        <string>kimono</string>
+		<key>👙</key>
+        <string>bikini</string>
+		<key>💼</key>
+        <string>briefcase</string>
+		<key>👜</key>
+        <string>handbag</string>
+		<key>👝</key>
+        <string>pouch</string>
+		<key>👛</key>
+        <string>purse</string>
+		<key>👓</key>
+        <string>eyeglasses</string>
+		<key>🎀</key>
+        <string>ribbon</string>
+		<key>🌂</key>
+        <string>closed umbrella</string>
+		<key>💄</key>
+        <string>lipstick</string>
+		<key>💛</key>
+        <string>yellow heart</string>
+		<key>💙</key>
+        <string>blue heart</string>
+		<key>💜</key>
+        <string>purple heart</string>
+		<key>💚</key>
+        <string>green heart</string>
+		<key>❤</key>
+        <string>heavy black heart</string>
+		<key>💔</key>
+        <string>broken heart</string>
+		<key>💗</key>
+        <string>growing heart</string>
+		<key>💓</key>
+        <string>beating heart</string>
+		<key>💕</key>
+        <string>two hearts</string>
+		<key>💖</key>
+        <string>sparkling heart</string>
+		<key>💞</key>
+        <string>revolving hearts</string>
+		<key>💘</key>
+        <string>heart with arrow</string>
+		<key>💌</key>
+        <string>love letter</string>
+		<key>💋</key>
+        <string>kiss mark</string>
+		<key>💍</key>
+        <string>ring</string>
+		<key>💎</key>
+        <string>gem stone</string>
+		<key>👤</key>
+        <string>bust in silhouette</string>
+		<key>👥</key>
+        <string>busts in silhouette</string>
+		<key>💬</key>
+        <string>speech balloon</string>
+		<key>👣</key>
+        <string>footprints</string>
+		<key>💭</key>
+        <string>thought balloon</string>
+    </dict>
+</plist>
