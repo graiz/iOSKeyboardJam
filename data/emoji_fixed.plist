@@ -575,7 +575,7 @@
 	<key>🐞</key>
 	<string>lady bug</string>
 	<key>🐌</key>
-	<string>snail shell</string>
+	<string>snail shell slow</string>
 	<key>🐙</key>
 	<string>octopus</string>
 	<key>🐚</key>
@@ -629,7 +629,7 @@
 	<key>🐪</key>
 	<string>dromedary camel desert</string>
 	<key>🐆</key>
-	<string>leopard</string>
+	<string>leopard cat</string>
 	<key>🐈</key>
 	<string>cat kitty</string>
 	<key>🐩</key>
@@ -677,7 +677,7 @@
 	<key>🌼</key>
 	<string>blossom flower</string>
 	<key>🌐</key>
-	<string>globe planet</string>
+	<string>globe planet world</string>
 	<key>🌞</key>
 	<string>sun face</string>
 	<key>🌝</key>
@@ -707,11 +707,11 @@
 	<key>🌙</key>
 	<string>crescent moon</string>
 	<key>🌍</key>
-	<string>earth globe europe africa</string>
+	<string>earth globe europe africa world</string>
 	<key>🌎</key>
-	<string>earth globe america</string>
+	<string>earth globe america world</string>
 	<key>🌏</key>
-	<string>earth globe asia australia</string>
+	<string>earth globe asia australia world</string>
 	<key>🌋</key>
 	<string>volcano </string>
 	<key>🌌</key>
